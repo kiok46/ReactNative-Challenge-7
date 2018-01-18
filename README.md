@@ -1,6 +1,6 @@
 # ReactNative-Challenge-7
 
-This is a part of a series, visit [ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) for more.
+This is part of a series, visit [ReactNative-Animation-Challenges](https://github.com/kiok46/ReactNative-Animation-Challenges) for more.
 
 Inspired from: Jedi Principles of UI Animation:  https://in.pinterest.com/pin/785948572443687502/
 
