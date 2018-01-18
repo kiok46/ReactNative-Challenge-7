@@ -9,6 +9,13 @@ Inspired from: Jedi Principles of UI Animation:  https://in.pinterest.com/pin/78
 
 Android ✔️    iOS ✔️
 
+## Try on Expo
+
+https://expo.io/@kiok46/7_music
+
+<img width="171" alt="screen shot 2018-01-18 at 6 18 30 pm" src="https://user-images.githubusercontent.com/7335120/35098979-3ad82dd0-fc7c-11e7-9ad0-f547aa87a12b.png">
+
+
 ## How to run?
 
 ```
